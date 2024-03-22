@@ -1,10 +1,9 @@
-# presentacion-
+# Felipe Cereghetti
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+![foto.png](/2024-presentacion-FeceUTN/foto.png "foto")
 
-Ya saben usar git!
+### Sobre mí
+
+- Me gustan los juegos de mesa y el bartenderismo.
+- Me interesa mucho la ciberseguridad y las redes.
+- Tengo dos gatas, una perra y una ajolote.
