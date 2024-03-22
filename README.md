@@ -1,6 +1,6 @@
 # Felipe Cereghetti
 
-![yo.png](/2024-presentacion-FeceUTN/yo.png "foto")
+![yo.png](yo.png)
 
 ### Sobre mí
 
